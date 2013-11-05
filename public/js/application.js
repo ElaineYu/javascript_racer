@@ -4,6 +4,9 @@ $(document).ready(function() {
   var counter_2 = 2;
   var gameFinished = 0;
 
+
+
+
   $(document).on('keyup', function(event) {
     // key 80 = P
 
